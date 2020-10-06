@@ -1,0 +1,13 @@
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.exe
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.deps.json
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.runtimeconfig.json
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.runtimeconfig.dev.json
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.dll
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\bin\Debug\netcoreapp3.1\Vowelcount.pdb
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.csproj.CoreCompileInputs.cache
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.AssemblyInfoInputs.cache
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.AssemblyInfo.cs
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.dll
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.pdb
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.genruntimeconfig.cache
+C:\Users\crash\source\repos\Vowelcount\Vowelcount\obj\Debug\netcoreapp3.1\Vowelcount.csprojAssemblyReference.cache
